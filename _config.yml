@@ -12,7 +12,8 @@ github_repo: "https://github.com/wang-yuchao/wang-yuchao.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Stay hungry,stay foolish."
-sidebar-avatar:/img/avatar-m.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:/img/avatar-m.jpg
+# use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
