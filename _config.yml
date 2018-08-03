@@ -12,14 +12,14 @@ github_repo: "https://github.com/wang-yuchao/wang-yuchao.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:
-zhihu_username:     wangyuchao
+zhihu_username:     chundonkey
 github_username:    wang-yuchao
 #facebook_username:
 jianshu_username:   1812a5cbf97a
