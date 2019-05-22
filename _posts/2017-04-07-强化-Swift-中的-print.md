@@ -3,7 +3,7 @@ layout:     post
 title:      强化 swift 中的 print
 subtitle:   强化 swift 中的 print 输出函数
 date:       2017-04-07
-author:     BY
+author:     王玉朝
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
@@ -79,3 +79,4 @@ public func printm(items: Any..., filename: String = #file, function: String = #
 
 
 > 本文首次发布于 [BY Blog](http://qiubaiying.github.io), 作者 [@柏荧(BY)](http://github.com/qiubaiying) ,转载请保留原文链接.
+

@@ -3,7 +3,7 @@ layout:     post
 title:      iTunes Connect 构建版本不显示
 subtitle:   App打包上传到 App Store, iTunes Connect 构建版本不显示
 date:       2017-07-24
-author:     BY
+author:     王玉朝
 header-img: img/post-bg-ios10.jpg
 catalog: true
 tags:
@@ -36,3 +36,4 @@ tags:
 若还是找不到，返回 plist 文件中，删除之前的权限，重新添加一下，有可能你哪不小心添加的权限末尾有空格，或者字段不对。
 
 End
+

@@ -3,7 +3,7 @@ layout:     post
 title:      利用 Debug Memory Graph 检测内测泄漏
 subtitle:   利用 Xcode 内存表（Debug Memory Graph）检测内测泄漏
 date:       2017-07-26
-author:     BY
+author:     王玉朝
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
@@ -76,3 +76,5 @@ sView.btnBlock = ^(NSInteger idx){
 就这样，利用 Debug Memory Graph，可以简单快速的检测内测泄漏。
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
+
+
